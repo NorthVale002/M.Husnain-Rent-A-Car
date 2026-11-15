@@ -1,0 +1,8 @@
+{
+  "name": "Remix M.Husnain Rent A Car",
+  "description": "24/7 reliable self-drive and chauffeur-driven car rental service in Orangi Town and across Karachi. Economy hatchbacks, sedans, 4x4 SUVs, wedding cars, and group vans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
